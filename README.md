@@ -1,2 +1,2 @@
 # Finolo
-Personal finacial advisor
+Personal financial advisor
