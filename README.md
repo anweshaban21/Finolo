@@ -1,2 +1,2 @@
 # Finolo
-Personal financial advisor
+Personal financial advisor (ongoing project)
